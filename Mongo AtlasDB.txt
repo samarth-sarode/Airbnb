@@ -1,4 +1,0 @@
-Username : Samarth
-Password : YbRK8KnUUuT2iGCG
-String: mongodb+srv://Samarth:<password>@atlascluster.nav5qgn.mongodb.net/?retryWrites=true&w=majority&appName=AtlasCluster
-DBUrl : mongodb+srv://Samarth:YbRK8KnUUuT2iGCG@atlascluster.nav5qgn.mongodb.net/?retryWrites=true&w=majority&appName=AtlasCluster
